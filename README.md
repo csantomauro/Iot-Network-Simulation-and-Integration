@@ -1,0 +1,2 @@
+# IoT Network Simulation and Integration
+This repository contains a comprehensive IoT network simulation project developed using **TOSSIM**. The simulation integrates the **MQTT protocol** for efficient message exchange between a PAN coordinator and multiple client nodes. The project also includes integration with **Node-RED** to process and forward data to **ThingSpeak**, enabling real-time monitoring through customized channels.
